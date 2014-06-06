@@ -384,6 +384,7 @@
 				A7C90643194249DD008464F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7C90644194249DD008464F5 /* Build configuration list for PBXNativeTarget "Start01Tests" */ = {
 			isa = XCConfigurationList;
@@ -392,6 +393,7 @@
 				A7C90646194249DD008464F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
